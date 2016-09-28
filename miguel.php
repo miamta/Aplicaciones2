@@ -11,6 +11,6 @@
  echo "Tamarit";
      ?>
      <h1> Primera prueba con el git</h1>
-     <h2> Segunda prueba en la clonacion< </h2>
+     <h2> Segunda prueba en la clonacion </h2>
   </body>
 </html>
