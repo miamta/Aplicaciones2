@@ -7,6 +7,8 @@
   <body>
     <?php
  echo "Miguel";
+ echo "amores";
+ echo "Tamarit";
      ?>
      <h1> Primera prueba con el git</h1>
   </body>
